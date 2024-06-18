@@ -138,3 +138,4 @@ if __name__ == "__main__":
             break
 
         process_command(query)
+# ******* MIC AND VOICE IS NOT SUPPORTED IN RECORDER SO ITS ONLY THE CODE PREVIEW***********
